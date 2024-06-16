@@ -1,0 +1,7 @@
+awscli-local
+awscli
+psycopg2-binary==2.9.5
+python-dotenv
+boto3
+
+
